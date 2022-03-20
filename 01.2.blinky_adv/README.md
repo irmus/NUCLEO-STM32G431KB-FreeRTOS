@@ -25,3 +25,6 @@ Uses HSE 24MHz crystal osicllator instead of HSI RC oscillator. Crystal oscillat
     - Code Generator
       - [x] Generate peripheral initialization as a pair of '.c/.h' files per peripheral
 
+## NUCLEO Board Settings
+- Close SB09, SB10
+  ![Board setting](doc/board_setting.png)
